@@ -25,6 +25,7 @@
 
 .navbar .box-navbar .brand h1 {
   font-size: 40px;
+  color: black;
 }
 .navbar.scrolling-active .box-navbar .brand h1 {
   color: white;
@@ -49,11 +50,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.navbar .box-navbar .brand {
-  font-size: 40px;
-  color: black;
 }
 
 .navbar .box-navbar .navigation ul {
